@@ -1,3 +1,5 @@
+//My first swing animation game
+//Using KeyListener, MouseMotionListener
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
