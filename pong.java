@@ -16,6 +16,7 @@ public class pong implements ActionListener, KeyListener, MouseMotionListener{
 			panel.repaint();
 		}
 	}
+	//This is an overideen method for MouseMotionListener
 	public void mouseMoved(MouseEvent evt){
 		panel.intBlock2Y = evt.getY();
 	}
